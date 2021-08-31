@@ -5,7 +5,7 @@ A collection of conky themes.
 2. Create *$HOME/.config/conky* directory if not exists.
 3. Clone this repository.
 4. Move the folder *themes* into your *$HOME/.config/conky* directory.
-5. Run *launch.sh* script.
+5. Run *[launch.sh](launch.sh)* script.
 ### Example
 ```bash
 mkdir $HOME/.config/conky
@@ -14,7 +14,7 @@ cd conky-themes
 mv themes $HOME/.config/conky
 ./launch.sh
 ```
-You can edit *launch.sh* to launch one of the following themes or just launch manually `conky -c <path-to-theme>`.
+You can edit *[launch.sh](launch.sh)* to launch one of the following themes or just launch manually `conky -c <path-to-theme>`.
 ## Preview
 ### Splitted
 ![strip](preview/solid/split.png)
