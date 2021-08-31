@@ -1,2 +1,38 @@
-# conky-themes
-A collection of conky themes
+# Conky themes
+A collection of conky themes.
+## Usage
+1. Create *$HOME/.config/conky* directory if not exists.
+2. Clone this repository.
+3. Move the folder *themes* into your *$HOME/.config/conky* directory.
+4. Run *launch.sh* script.
+```bash
+mkdir $HOME/.config/conky
+git clone https://github.com/AguilarLagunasArturo/conky-themes.git
+cd conky-themes
+mv themes $HOME/.config/conky
+./launch.sh
+```
+You can edit *launch.sh* to launch one of the following themes or just launch manually `conky -c <path-to-theme>`.
+## Preview
+### Splitted
+![strip](preview/solid/split.png)
+### Splitted (clear)
+![strip](preview/clear/split.png)
+### Dual
+![strip](preview/solid/dual.png)
+### Dual (clear)
+![strip](preview/clear/dual.png)
+### Minimal
+![strip](preview/solid/minimal.png)
+### Minimal (clear)
+![strip](preview/clear/minimal.png)
+### Strip
+![strip](preview/solid/strip.png)
+- Secreen resolution:
+    - 1920x1080
+    - 1366x768
+### Strip (clear)
+![strip](preview/clear/strip.png)
+- Secreen resolution:
+    - 1920x1080
+    - 1366x768
