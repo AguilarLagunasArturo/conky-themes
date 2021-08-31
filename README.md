@@ -14,7 +14,7 @@ cd conky-themes
 mv themes $HOME/.config/conky
 ./launch.sh
 ```
-You can edit *[launch.sh](launch.sh)* to launch one of the following themes or just launch manually `conky -c <path-to-theme>`.
+You can edit *[launch.sh](launch.sh)* to launch one of the following themes or just launch it manually `conky -c <path-to-theme>`.
 ## Preview
 ### Splitted
 ![strip](preview/solid/split.png)
