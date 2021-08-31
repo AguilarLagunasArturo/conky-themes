@@ -6,6 +6,7 @@ A collection of conky themes.
 3. Clone this repository.
 4. Move the folder *themes* into your *$HOME/.config/conky* directory.
 5. Run *launch.sh* script.
+### Example
 ```bash
 mkdir $HOME/.config/conky
 git clone https://github.com/AguilarLagunasArturo/conky-themes.git
