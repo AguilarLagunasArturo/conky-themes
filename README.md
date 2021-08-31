@@ -1,10 +1,11 @@
 # Conky themes
 A collection of conky themes.
 ## Usage
-1. Create *$HOME/.config/conky* directory if not exists.
-2. Clone this repository.
-3. Move the folder *themes* into your *$HOME/.config/conky* directory.
-4. Run *launch.sh* script.
+1. Install *font*
+2. Create *$HOME/.config/conky* directory if not exists.
+3. Clone this repository.
+4. Move the folder *themes* into your *$HOME/.config/conky* directory.
+5. Run *launch.sh* script.
 ```bash
 mkdir $HOME/.config/conky
 git clone https://github.com/AguilarLagunasArturo/conky-themes.git
