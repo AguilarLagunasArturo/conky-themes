@@ -1,5 +1,5 @@
 # Conky themes
-A collection of conky themes.
+A collection of [conky](https://github.com/brndnmtthws/conky) themes.
 ## Usage
 1. Install *[Roboto Nerd Font](fonts)*
 2. Create *$HOME/.config/conky* directory if not exists.
