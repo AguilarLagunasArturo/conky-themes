@@ -1,13 +1,15 @@
 # Conky themes
 A collection of *[conky](https://github.com/brndnmtthws/conky)* themes.
 ## Usage
-1. Install *[Roboto Nerd Font](fonts)*
-2. Create *$HOME/.config/conky* directory if not exists.
-3. Clone this repository.
-4. Move the folder *themes* into your *$HOME/.config/conky* directory.
-5. Run *[launch.sh](launch.sh)* script.
+1. Install *[Roboto Nerd Font](fonts)*.
+2. Install *[conky](https://github.com/brndnmtthws/conky)*.
+3. Create *$HOME/.config/conky* directory if not exists.
+4. Clone this repository.
+5. Move the folder *themes* into your *$HOME/.config/conky* directory.
+6. Run *[launch.sh](launch.sh)* script.
 ### Example
 ```bash
+sudo apt install conky
 mkdir $HOME/.config/conky
 git clone https://github.com/AguilarLagunasArturo/conky-themes.git
 cd conky-themes
