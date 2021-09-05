@@ -1,4 +1,4 @@
-# Conky themes
+# Conky themes (tested with *conky 1.11.6*)
 A collection of *[conky](https://github.com/brndnmtthws/conky)* themes.
 ## Usage
 1. Install *[Roboto Nerd Font](fonts)*.
