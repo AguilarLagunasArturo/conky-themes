@@ -7,7 +7,7 @@ A collection of *[conky](https://github.com/brndnmtthws/conky)* themes.
 4. Clone this repository.
 5. Move the folder *themes* into your *$HOME/.config/conky* directory.
 6. Run *[launch.sh](launch.sh)* script.
-### Example
+### Example *(debian based distros)*
 ```bash
 sudo apt install conky
 mkdir $HOME/.config/conky
